@@ -7,3 +7,8 @@ Soy un ingeniero electrónico apasasionado en la programacion, el desarrollo de 
 
 My email is pablo.labmet@gmail.com
 
+## Technologies
+
+    HTML
+    CSS
+    JSS
