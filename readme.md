@@ -7,3 +7,11 @@ Soy un ingeniero electrónico apasasionado en la programacion, el desarrollo de 
 
 My email is pablo.labmet@gmail.com
 
+
+## Hobbies
+
+    -Futbol
+    -Ajedrez
+    -Juegos de mesa
+    -Basquetbol
+    -Peliculas
