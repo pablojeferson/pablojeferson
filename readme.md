@@ -10,5 +10,5 @@ My email is pablo.labmet@gmail.com
 
 ## Languages
 
-  -Spanish
-  -English
+ - Spanish
+ - English
