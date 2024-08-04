@@ -13,3 +13,12 @@ My email is pablo.labmet@gmail.com
     - Coaching
     - Resolución de problemas
     - Pensamiento crítico
+    
+## Hobbies
+
+    - Futbol
+    - Ajedrez
+    - Juegos de mesa
+    - Basquetbol
+    - Peliculas
+
