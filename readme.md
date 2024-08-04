@@ -1,6 +1,6 @@
 #Hi I am Pablo Mamani Electronic Engineer developer
 
-##About me 
+## About me 
 
 Soy un ingeniero electrónico apasasionado en la programacion, el desarrollo de sistemas embebidos y la inteligencia artificial.
 
@@ -8,3 +8,7 @@ Soy un ingeniero electrónico apasasionado en la programacion, el desarrollo de 
 
 My email is pablo.labmet@gmail.com
 
+## Languages
+
+  -Spanish
+  -English
