@@ -8,7 +8,12 @@ Soy un ingeniero electrónico apasasionado en la programacion, el desarrollo de 
 
 My email is pablo.labmet@gmail.com
 
+## Skills
 
+    - Coaching
+    - Resolución de problemas
+    - Pensamiento crítico
+    
 ## Hobbies
 
     - Futbol
@@ -16,3 +21,4 @@ My email is pablo.labmet@gmail.com
     - Juegos de mesa
     - Basquetbol
     - Peliculas
+
