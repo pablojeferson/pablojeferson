@@ -2,7 +2,7 @@
 
 ## About me 
 
-Soy un ingeniero electrónico apasasionado en la programacion, el desarrollo de sistemas embebidos y la inteligencia artificial.
+Apasionado ingeniero electrónico con experiencia en desarrollo de sistemas embebidos y entusiasta de la inteligencia artificial. Busco desafíos emocionantes para aplicar mis habilidades técnicas y creativas
 
 ## Contact me
 
@@ -18,12 +18,16 @@ My email is pablo.labmet@gmail.com
  - HTML
  - CSS
  - JSS
+ - Python
+ - C
+ - C++
+ - Power bi
     
 ## Skills
 
-  - Coaching
   - Resolución de problemas
   - Pensamiento crítico
+  - Responsabilidad
     
 ## Hobbies
 
@@ -31,5 +35,5 @@ My email is pablo.labmet@gmail.com
    - Ajedrez
    - Juegos de mesa
    - Basquetbol
-   - Peliculas
+   - Peliculas y Series
    - Atletismo
