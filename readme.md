@@ -8,12 +8,11 @@ Soy un ingeniero electrónico apasasionado en la programacion, el desarrollo de 
 
 My email is pablo.labmet@gmail.com
 
-<<<<<<< HEAD
 ## Languages
 
  - Spanish
  - English
-=======
+
 ## Technologies
 
     HTML
@@ -33,6 +32,3 @@ My email is pablo.labmet@gmail.com
     - Juegos de mesa
     - Basquetbol
     - Peliculas
-
-
->>>>>>> 677f085dc734ae0a0327fe5e245b951a143c3793
