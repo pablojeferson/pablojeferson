@@ -15,20 +15,21 @@ My email is pablo.labmet@gmail.com
 
 ## Technologies
 
-    HTML
-    CSS
-    JSS
+ - HTML
+ - CSS
+ - JSS
     
 ## Skills
 
-    - Coaching
-    - Resolución de problemas
-    - Pensamiento crítico
+  - Coaching
+  - Resolución de problemas
+  - Pensamiento crítico
     
 ## Hobbies
 
-    - Futbol
-    - Ajedrez
-    - Juegos de mesa
-    - Basquetbol
-    - Peliculas
+   - Futbol
+   - Ajedrez
+   - Juegos de mesa
+   - Basquetbol
+   - Peliculas
+   - Atletismo
